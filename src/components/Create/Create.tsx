@@ -28,8 +28,6 @@ import {
   PastePreparation,
 } from "../../models/models";
 
-type CreatePizzaProps = {};
-
 export const CreatePizza: React.FC = () => {
   const [name, setName] = useState<PizzaName>();
   const [pasteKind, setPasteKind] = useState<PasteKind>();

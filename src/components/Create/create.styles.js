@@ -71,7 +71,7 @@ export const titleFormButtonStackStyles = {
   alignItems: "center",
   justifyContent: "center",
   position: "absolute",
-  gap:1,
+  gap: 1,
   zIndex: "2",
   left: "50%",
   top: "50%",
@@ -86,7 +86,7 @@ export const titleFormButtonStackStyles = {
 
 export const createTitleStyles = {
   fontWeight: "bold",
-//   color: "#00A557",
+  //   color: "#00A557",
   marginTop: {
     xs: "8px",
     sm: "10px",
